@@ -28,7 +28,7 @@ console.log('=== selectFromInterval ====');
 
 const intervals = [
     [[1,3,5], 5, 2],
-    [[-2, -15, 0, 4], -13, 5],
+    [[-2, -15, 0, 4], -13, -5],
 ]
 
 intervals.forEach((interval, index) => {
